@@ -27,16 +27,6 @@ This script issues the same DELETE call used by PowerShell, but runs natively in
 
 ---
 
-## ✨ Why use this script instead of PowerShell?
-
-Running the notebook version is useful for customers who want a simpler and more secure, cloud-based way to run the cleanup without depending on their local machine.
-
-- They don’t have admin rights or cannot run scripts on their local PC  
-- They want to avoid manually copying sensitive tokens  
-- They prefer using Fabric’s built-in environment rather than installing PowerShell modules or tools  
-
----
-
 ## 🔧 Required Parameters (and How to Get Them)
 
 To run the cleanup you only need two values:  
