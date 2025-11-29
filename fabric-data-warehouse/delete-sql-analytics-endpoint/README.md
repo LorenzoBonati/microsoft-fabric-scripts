@@ -1,6 +1,5 @@
 ## 📌 Script: Delete Orphaned SQL Analytics Endpoint
 
-**Path:** `fabric-data-warehouse/delete_fabric_orphaned_sql_analytics_endpoint.py`  
 **Purpose:** Removes an orphaned SQL Analytics Endpoint from a Fabric workspace, including its associated Semantic Model.
 
 ### 🧭 When to use this script
