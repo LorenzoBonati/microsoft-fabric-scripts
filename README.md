@@ -17,7 +17,7 @@ Scripts and documentation for cleaning up **orphaned SQL Analytics Endpoints** a
 
 See the detailed README in that folder:
 
-👉 [`delete-orphaned-sql-analytics-endpoint/README.md`](./delete-orphaned-sql-analytics-endpoint)
+👉 [`delete-orphaned-sql-analytics-endpoint/README.md`](./fabric-data-warehouse/delete-orphaned-sql-analytics-endpoint)
 
 ---
 
@@ -27,7 +27,7 @@ Scripts to **inspect and export permissions** from a Fabric Warehouse so they ca
 
 See the dedicated README in that folder:
 
-👉 [`permissions-deployment/README.md`](./permissions-deployment/)
+👉 [`permissions-deployment/README.md`](./fabric-data-warehouse/permissions-deployment)
 
 ---
 
