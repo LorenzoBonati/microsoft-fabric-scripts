@@ -1,12 +1,3 @@
-# Fabric Data Warehouse – Support Scripts
-
-This folder contains scripts and utilities for troubleshooting Microsoft Fabric Data Warehouse scenarios.  
-
-> ⚠️ These scripts are intended for support engineers and advanced users.  
-> Always validate changes in a non-production environment before applying them to customer workloads.
-
----
-
 ## 📌 Script: Delete Orphaned SQL Analytics Endpoint
 
 **Path:** `fabric-data-warehouse/delete_fabric_orphaned_sql_analytics_endpoint.py`  
