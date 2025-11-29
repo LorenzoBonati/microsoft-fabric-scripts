@@ -69,7 +69,7 @@ The output is **one command per row** in the `cmd` column, designed to be:
 1. **In Dev (source Warehouse)**  
    - Run `01-permissions-precheck.sql` to understand the current permissions layout.  
    - Run `02-export-role-permissions.sql`.  
-   - Copy the result directly from the Fabric SQL Editor UI to have a scriot ready to paste:
+   - Copy the result directly from the Fabric SQL Editor UI to have a script ready to paste:
    <img width="1575" height="460" alt="image" src="https://github.com/user-attachments/assets/fa4e4a8b-9356-4509-90cb-864ca0717212" />
 
 
